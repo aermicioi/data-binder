@@ -1,0 +1,12 @@
+{
+	"name": "binder",
+	"authors": [
+		"Alexandru Ermicioi"
+	],
+	"targetType": "sourceLibrary",
+	"description": "A library for making data binding",
+	"copyright": "Copyright © 2017, Alexandru Ermicioi",
+	"license": "BSL-1.0",
+	"dflags": [
+	]
+}
